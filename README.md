@@ -15,4 +15,4 @@ Google Cybersecurity Professional Certificate (Complete suite of 8 specialized c
 
 Python for Security Automation
 
-**FCO-U71
+FCO-U71: security fundamentals
